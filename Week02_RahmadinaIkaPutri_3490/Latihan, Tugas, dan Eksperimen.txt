@@ -1,0 +1,3 @@
+2. Ketiga-tiganya jika dijalankan maka akan terjadi error dan aplikasi akan crash dikarenakan tidak ada input, cara memperbaikinya adalah menambahkan exception.
+
+3. Kesimpulannya jika kita meletakkan breakpoint maka aplikasi akan berhenti sementara pada saat mencapai baris yang ada breakpoint tersebut.
