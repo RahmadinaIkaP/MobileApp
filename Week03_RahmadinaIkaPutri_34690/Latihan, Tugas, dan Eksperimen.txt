@@ -1,0 +1,1 @@
+Kesimpulannya aplikasi menampilkan list kata 1 sampai 20, selain itu ada floating button add yang berfungsi untuk menambahkan angka ke dalam list + text "telah ditambahkan", lalu jika angka diklik akan muncul notifikasi angka "pernah diklik".
