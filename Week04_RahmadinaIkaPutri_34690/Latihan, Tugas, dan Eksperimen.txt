@@ -1,0 +1,1 @@
+Pada tutorial intent aplikasi dapat mengirimkan data dari activity satu ke activity lainnya melalui intent, dan pada tutorial fragment baik via layout maupun programmatic, aplikasi dapat memunculkan tampilan dari activity yang berisikan fragment yang telah dibuat.
