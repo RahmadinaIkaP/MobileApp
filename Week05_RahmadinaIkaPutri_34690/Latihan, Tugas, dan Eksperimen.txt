@@ -1,0 +1,1 @@
+Pada aplikasi kita dapat menggambar di canvas yang sudah dibuat, kita dapat memilih atau mengganti warna dengan menggeser seekBar, selain itu kita dapat memilih bentuk untuk digambar di canvas secara otomatis seperti lingkaran, kotak, dan garis. Pada ikon x di aplikasi digunakan untuk menghapus hasil gambar pada canvas.
