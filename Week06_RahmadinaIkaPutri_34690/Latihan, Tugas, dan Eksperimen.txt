@@ -1,0 +1,1 @@
+Pada aplikasi pertama, jika layar ditekan akan muncul lingkaran dengan animasi membesar lalu mengecil. Pada aplikasi kedua, akan muncul animasi stopmotion dari kuda yang sedang berlari. Terakhir pada aplikasi ketiga, jika tombol halo spring ditekan maka tombol akan bergerak seperti per, sedangkan tombol halo fling jika ditekan maka tombol akan memutar ke belakang. 
