@@ -1,0 +1,1 @@
+Pada aplikasi pertama, kita dapat mengambil dan melihat hasil jepretan gambar dan video. Pada aplikasi kedua, kita dapat melihat list video, memutar video dan menampilkan detail video.  
